@@ -1,0 +1,9 @@
+{
+    "name": "gudang-sepatu",
+    "version": "1.0.0",
+    "description0": "sistem manjemen stok gudang sepatu",
+    "main": "main.js",
+    "scripts":{
+        "start": "node main.js"
+    }
+}

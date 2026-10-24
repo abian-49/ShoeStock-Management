@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "idSepatu": "NE7794",
+    "jenis": "STOK AWAL",
+    "jumlah": 50,
+    "tanggal": "2026-10-19T03:39:06.030Z"
+  },
+  {
+    "id": 2,
+    "idSepatu": "NE7587",
+    "jenis": "STOK AWAL",
+    "jumlah": 46,
+    "tanggal": "2026-10-19T03:42:31.950Z"
+  },
+  {
+    "id": 3,
+    "idSepatu": "NE7587",
+    "jenis": "STOK MASUK",
+    "jumlah": 4,
+    "tanggal": "2026-10-19T04:10:56.730Z"
+  },
+  {
+    "id": 4,
+    "idSepatu": "NE7682",
+    "jenis": "STOK AWAL",
+    "jumlah": 35,
+    "tanggal": "2026-10-19T04:12:24.875Z"
+  },
+  {
+    "id": 5,
+    "idSepatu": "NE7682",
+    "jenis": "STOK KELUAR",
+    "jumlah": 15,
+    "tanggal": "2026-10-19T04:12:56.289Z"
+  },
+  {
+    "id": 6,
+    "idSepatu": "PA5916",
+    "jenis": "STOK AWAL",
+    "jumlah": 25,
+    "tanggal": "2026-10-24T11:52:05.662Z"
+  },
+  {
+    "id": 7,
+    "idSepatu": "PA5916",
+    "jenis": "STOK KELUAR",
+    "jumlah": 10,
+    "tanggal": "2026-10-24T11:52:48.851Z"
+  },
+  {
+    "id": 8,
+    "idSepatu": "NE7682",
+    "jenis": "STOK MASUK",
+    "jumlah": 5,
+    "tanggal": "2026-10-24T12:03:51.905Z"
+  },
+  {
+    "id": 9,
+    "idSepatu": "AS1945",
+    "jenis": "STOK AWAL",
+    "jumlah": 14,
+    "tanggal": "2026-10-24T12:12:05.439Z"
+  }
+]

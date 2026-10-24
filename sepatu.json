@@ -1,0 +1,26 @@
+[
+  {
+    "id": "NE7587",
+    "merk": "Nike",
+    "nama": "P-6000",
+    "ukuran": 43,
+    "harga": 1899000,
+    "stok": 50
+  },
+  {
+    "id": "PA5916",
+    "merk": "Puma",
+    "nama": "Puma Speed Cat",
+    "ukuran": 44,
+    "harga": 2500000,
+    "stok": 15
+  },
+  {
+    "id": "AS1945",
+    "merk": "Adidas",
+    "nama": "Adidas ADIZERO",
+    "ukuran": 43,
+    "harga": 2300000,
+    "stok": 14
+  }
+]
